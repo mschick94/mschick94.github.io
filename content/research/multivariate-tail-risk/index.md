@@ -2,6 +2,7 @@
 title: "Multivariate Economic Tail Risk and Scenario Analysis using the Survey of Professional Forecasters"
 date: 2026-04-24
 description: "Working Paper — submitted, under review"
+author: ["Manuel Schick", "Anne Opschoor"]
 tags: ["Growth-at-Risk", "Multivariate Predictive Densities", "GARCH", "Tail Risk", "Macroeconomic Forecasting", "Working Paper"]
 links:
     - name: SSRN

@@ -1,4 +1,5 @@
 ---
-title: "Papers"
-description: "Preprints and articles by Professor Dr von Igelfeld."
+title: "Research"
 ---
+
+Browse by status: [Working Papers](/tags/working-paper/) · [Work in Progress](/tags/work-in-progress/)
