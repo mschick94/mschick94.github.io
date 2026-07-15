@@ -74,7 +74,7 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=L2-YYy4AAAAJ&hl=de&oi=ao
         - name: Ssrn
-          url: https://ssrn.com/author=DEINE-ID
+          url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6804259
         - name: GitHub
           url: https://github.com/user
         - name: LinkedIn
