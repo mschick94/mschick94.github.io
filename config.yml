@@ -22,7 +22,7 @@ menu:
           url: teaching/
           weight: 3
         - name: CV
-          url: cv.pdf
+          url: cv/
           weight: 4
 
 params:
@@ -53,7 +53,7 @@ params:
           enabled: true
           title: "Manuel Schick"
           subtitle: "I am a PhD Candidate at Heidelberg University and a Postdoctoral Researcher at the Vrije Universiteit Amsterdam. My research interests comprise econometrics, macroeconometrics, time-series analysis, and empirical finance. I hold a Master's degree in Economics and Finance from the University of Tübingen, where I gained work experience in economic research as a student assistant at the Institute of Applied Economic Research (IAW)."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -64,11 +64,11 @@ params:
             - name: Teaching
               url: teaching/
             - name: CV
-              url: cv.pdf
+              url: cv/
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv/
         - name: Email
           url: mailto:manuel.schick@awi.uni-heidelberg.de
         - name: Google Scholar
