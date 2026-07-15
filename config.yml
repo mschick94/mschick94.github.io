@@ -30,9 +30,9 @@ params:
     author: Manuel Schick
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: auto
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -76,7 +76,7 @@ params:
         - name: Ssrn
           url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6804259
         - name: GitHub
-          url: https://github.com/user
+          url: https://github.com/fredbec/spf-europe
         - name: LinkedIn
           url: https://de.linkedin.com/in/manuel-schick-63a314310/de
 
