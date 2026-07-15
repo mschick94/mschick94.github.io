@@ -70,15 +70,15 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:manuel.schick@awi.uni-heidelberg.de
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
+          url: https://scholar.google.com/citations?user=L2-YYy4AAAAJ&hl=de&oi=ao
+        - name: Ssrn
+          url: https://ssrn.com/author=DEINE-ID
         - name: GitHub
           url: https://github.com/user
+        - name: LinkedIn
+          url: https://de.linkedin.com/in/manuel-schick-63a314310/de
 
     assets:
         disableScrollBarStyle: true
