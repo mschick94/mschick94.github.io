@@ -2,10 +2,10 @@
 title: "Nowcasting Growth-at-Risk using the Survey of Professional Forecasters"
 date: 2024-06-17
 description: "Working Paper — submitted, under review"
-tags: ["tail risk", "density forecasts", "GARCH", "real-time data"]
+tags: ["tail risk", "density forecasts", "GARCH", "real-time data", "Working Paper"]
 links:
     - name: SSRN
-      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=XXXXXXX
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859937
 cover:
     image: "Real_Time_SPF.png"
     alt: "Real-time SPF density forecasts"
@@ -22,6 +22,8 @@ This paper investigates nowcasting Growth-at-Risk (GaR) using consensus forecast
 
 **[Download on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859937)**
 
+<p style="text-align:center;"><strong>Real-Time Density Nowcast for GDP Growth</strong></p>
+
 ![Real-time SPF density forecasts](Real_Time_SPF.png)
 
-Explore the results interactively with the [Growth-at-Risk Density Forecast Tool](https://manuelschick.shinyapps.io/app-1/), which allows you to visualize density forecasts across adjustable quantiles and time periods.
+Explore the results interactively with the **[Growth-at-Risk Density Forecast Tool](https://manuelschick.shinyapps.io/app-1/)**, which allows you to visualize density forecasts across adjustable quantiles and time periods.
