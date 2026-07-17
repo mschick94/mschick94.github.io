@@ -24,6 +24,9 @@ menu:
         - name: CV
           url: cv/
           weight: 4
+        - name: Contact
+          url: contact/
+          weight: 5
 
 params:
     description: "This website hosts Manuel Schick's research, teaching materials, talks, and curriculum vitae."
