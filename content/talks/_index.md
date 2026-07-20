@@ -5,7 +5,7 @@ title: "Talks"
 ### 2026
 
 - **13th HKMetrics Workshop**, Karlsruhe Institute of Technology (Germany, July)
-- **IAAE Annual Conference**, Nova School of Business and Economics, Lisbon (Portugal, June)
+- **IAAE Annual Conference 2026**, Nova School of Business and Economics, Lisbon (Portugal, June)
 - **Econometrics Department Brownbag**, Vrije Universiteit Amsterdam (Netherlands, June)
 - **3rd CESA Workshop for Young Researchers**, FernUniversität in Hagen (Germany, April)
 - **Finance@VU Lunch Seminar**, Vrije Universiteit Amsterdam (Netherlands, March)
