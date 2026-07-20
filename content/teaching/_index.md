@@ -5,7 +5,7 @@ title: "Teaching"
 ### Lectures
 
 - **Advanced Econometrics**, Heidelberg University (Master, Winter 26/27)
-- **Preparatory Course: Advanced Econometrics**, Heidelberg University (Master, Winter 22/23–24/25)
+- **Preparatory Course: Advanced Econometrics**, Heidelberg University (Master, Winter 22/23–26/27)
 
 ### Tutorials
 
