@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+[Download as PDF](/cv.pdf)
+
 ## Experience
 
 <dl>
