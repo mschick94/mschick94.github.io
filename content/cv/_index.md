@@ -13,7 +13,7 @@ title: "CV"
   <dt>Feb 2026 – Sep 2026</dt>
   <dd><strong>Postdoctoral Researcher</strong>, Finance Department, Vrije Universiteit Amsterdam</dd>
 
-  <dt>since Sep 2020</dt>
+  <dt>Sep 2020 - Aug 2026</dt>
   <dd><strong>PhD Candidate</strong>, Chair of Empirical Economics, Alfred Weber Institute for Economics, Heidelberg University</dd>
 
   <dt>Sep 2020 - Aug 2021 </dt>
