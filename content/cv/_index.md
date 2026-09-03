@@ -38,7 +38,7 @@ title: "CV"
 ## Education
 
 <dl>
-  <dt>since Sep 2020</dt>
+  <dt>Sep 2020 - Aug 2026</dt>
   <dd><strong>PhD in Economics</strong>, Heidelberg University</dd>
 
   <dt>Oct 2017 – Aug 2020</dt>
