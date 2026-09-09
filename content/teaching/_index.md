@@ -4,8 +4,8 @@ title: "Teaching"
 
 ### Lectures
 
-- **Advanced Econometrics**, Heidelberg University (Master, Winter 26/27)
-- **Preparatory Course: Advanced Econometrics**, Heidelberg University (Master, Winter 22/23–26/27)
+- **[Advanced Econometrics](https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/424044?$ctx=lang=DE&$scrollTo=toc_overview)**, Heidelberg University (Master, Winter 26/27)
+- **[Preparatory Course: Advanced Econometrics](https://heico.uni-heidelberg.de/heiCO/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/424069?$ctx=lang=DE&$scrollTo=toc_overview)**, Heidelberg University (Master, Winter 22/23–26/27)
 
 ### Tutorials
 
