@@ -22,6 +22,8 @@ This paper investigates nowcasting Growth-at-Risk (GaR) using consensus forecast
 
 **[Download on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859937)** &nbsp;|&nbsp; **[Try the Interactive Forecasting Tool →](https://manuelschick.shinyapps.io/app-1/)**
 
+---
+
 <p style="text-align:center;"><strong>Real-Time Density Nowcast for GDP Growth</strong></p>
 
 ![Real-time SPF density forecasts](Real_Time_SPF.png)
