@@ -14,7 +14,7 @@ cover:
     relative: true
 ---
 
-**Working Paper — submitted, under review**
+**Working Paper**
 
 ---
 

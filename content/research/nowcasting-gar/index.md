@@ -12,7 +12,7 @@ cover:
     relative: true
 ---
 
-**Job Market Paper — submitted, under review**
+**Job Market Paper**
 
 ---
 
