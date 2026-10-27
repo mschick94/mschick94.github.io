@@ -1,5 +1,5 @@
 ---
-title: "Forecasting 10-Day-Ahead Portfolio Value-at-Risk and Expected Shortfall: Univariate vs. Multivariate Approaches"
+title: "Forecasting 10-Day-Ahead Portfolio Value-at-Risk and Expected Shortfall: Univariate, Multivariate, and Copula Approaches"
 date: 2026-09-14
 description: "Work in Progress"
 author: ["Manuel Schick", "Anne Opschoor"]
@@ -16,4 +16,4 @@ Basel regulations require banks to forecast 10-day-ahead Value-at-Risk (VaR) and
 
 We compare a wide range of volatility models, including multivariate and copula-based approaches, evaluating predictive accuracy via the joint loss function of Fissler and Ziegel (2016) as well as formal backtesting procedures.
 
-Simple univariate models applied directly to portfolio returns perform on par with, or better than, multivariate approaches modeled at the asset level.
+Simple copula-based models estimated at the asset level perform best, outperforming both more complex multivariate volatility models and univariate benchmarks applied directly to portfolio returns.
