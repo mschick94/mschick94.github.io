@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: "Manuel Schick"
-          subtitle: "I am a Postdoctoral Researcher at Heidelberg University and at the Vrije Universiteit Amsterdam. My research interests comprise macroeconomic forecasting, density and tail risk modeling, survey expectations, econometrics, and empirical finance. I hold a Master's degree in Economics and Finance from the University of Tübingen. During my studies, I gained work experience in economic research as a student assistant at the Institute for Applied Economic Research (IAW) in Tübingen."
+          subtitle: "I am a Postdoctoral Researcher at the Chair of Econometrics at Heidelberg University. I received my PhD in Economics from Heidelberg University in 2026. My research interests comprise macroeconomic forecasting, density and tail risk modeling, survey expectations, econometrics, and empirical finance. Before my PhD, I earned a Master's degree in Economics and Finance from the University of Tübingen, where I also worked as a student assistant at the Institute for Applied Economic Research (IAW)."
           imageUrl: "picture_new.jpg"
           imageWidth: 160
           imageHeight: 160

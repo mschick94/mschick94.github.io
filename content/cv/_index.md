@@ -8,16 +8,13 @@ title: "CV"
 
 <dl>
   <dt>Oct 2026 – Apr 2027</dt>
-  <dd><strong>Postdoctoral Researcher</strong>, Chair of Empirical Economics, Alfred Weber Institute for Economics, Heidelberg University</dd>
+  <dd><strong>Postdoctoral Researcher</strong>, Chair of Econometrics, Alfred Weber Institute for Economics, Heidelberg University</dd>
 
   <dt>Feb 2026 – Sep 2026</dt>
   <dd><strong>Postdoctoral Researcher</strong>, Finance Department, Vrije Universiteit Amsterdam</dd>
 
-  <dt>Sep 2020 - Aug 2026</dt>
-  <dd><strong>PhD Candidate</strong>, Chair of Empirical Economics, Alfred Weber Institute for Economics, Heidelberg University</dd>
-
-  <dt>Sep 2020 - Aug 2021 </dt>
-  <dd><strong>Visiting PhD Student</strong>, Center for Doctoral Studies in Economics (CDSE), University of Mannheim</dd>
+  <dt>Sep 2020 – Jan 2026</dt>
+  <dd><strong>PhD Candidate</strong>, Chair of Econometrics, Alfred Weber Institute for Economics, Heidelberg University</dd>
 
   <dt>Apr 2020 – Aug 2020</dt>
   <dd><strong>Tutor</strong>, Chair of Statistics, Econometrics and Quantitative Methods, University of Tübingen</dd>
@@ -38,8 +35,11 @@ title: "CV"
 ## Education
 
 <dl>
-  <dt>Sep 2020 - Aug 2026</dt>
-  <dd><strong>PhD in Economics</strong>, Heidelberg University</dd>
+  <dt>Sep 2020 – Aug 2026</dt>
+  <dd><strong>PhD in Economics</strong>, Heidelberg University<br>Dissertation: &ldquo;Essays on Macroeconomic Forecasting and Risk using the Survey of Professional Forecasters&rdquo;<br>Advisor: Prof. Dr. Christian Conrad</dd>
+
+  <dt>Sep 2020 – Aug 2021</dt>
+  <dd><strong>Visiting PhD Student</strong>, Center for Doctoral Studies in Economics (CDSE), University of Mannheim</dd>
 
   <dt>Oct 2017 – Aug 2020</dt>
   <dd><strong>M.Sc. Economics and Finance</strong>, University of Tübingen</dd>
@@ -80,6 +80,6 @@ title: "CV"
   <dt>Gauss</dt>
   <dd>Intermediate</dd>
 
-  <dt>SAS</dt>
-  <dd>Beginner</dd>
+  <dt>LaTeX</dt>
+  <dd>Advanced</dd>
 </dl>

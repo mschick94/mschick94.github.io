@@ -17,3 +17,5 @@ Basel regulations require banks to forecast 10-day-ahead Value-at-Risk (VaR) and
 We compare a wide range of volatility models, including multivariate and copula-based approaches, evaluating predictive accuracy via the joint loss function of Fissler and Ziegel (2016) as well as formal backtesting procedures.
 
 Simple copula-based models estimated at the asset level perform best, outperforming both more complex multivariate volatility models and univariate benchmarks applied directly to portfolio returns.
+
+**[Code on GitHub →](https://github.com/mschick94/cumulative-value-at-risk-expected-shortfall)**

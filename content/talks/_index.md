@@ -7,7 +7,7 @@ title: "Talks"
 - **13th HKMetrics Workshop**, Karlsruhe Institute of Technology (Germany, July)
 - **IAAE Annual Conference**, Nova School of Business and Economics, Lisbon (Portugal, June)
 - **Econometrics Department Brownbag**, Vrije Universiteit Amsterdam (Netherlands, June)
-- **3rd CESA Workshop for Young Researchers**, FernUniversität in Hagen (Germany, April)
+- **3rd CESA Workshop for Young Researchers**, FernUniversität in Hagen (Germany, April, invited talk)
 - **Finance@VU Lunch Seminar**, Vrije Universiteit Amsterdam (Netherlands, March)
 
 ### 2025
@@ -20,7 +20,7 @@ title: "Talks"
 
 - **Society of Financial Econometrics (SoFiE) Summer School**, National Bank of Belgium, Brussels (Belgium, September)
 - **Departmental Seminar**, Department of Economics, Heidelberg University (Germany, May)
-- **Financial Econometrics & Macroeconomic Expectations Workshop**, Heidelberg University (Germany, April)
+- **Financial Econometrics & Macroeconomic Expectations Workshop**, Heidelberg University (Germany, April, invited talk)
 
 ### 2023
 

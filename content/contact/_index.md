@@ -6,9 +6,6 @@ title: "Contact"
   <dt>Email</dt>
   <dd><a href="mailto:manuel.schick@awi.uni-heidelberg.de">manuel.schick@awi.uni-heidelberg.de</a></dd>
 
-  <dt>Phone</dt>
-  <dd>+49 6221 54 2908</dd>
-
   <dt>Office</dt>
   <dd>Room 01.020, Alfred Weber Institute for Economics, Heidelberg University</dd>
 
