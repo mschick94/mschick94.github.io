@@ -19,7 +19,7 @@ title: "Talks"
 ### 2024
 
 - **Society of Financial Econometrics (SoFiE) Summer School**, National Bank of Belgium, Brussels (Belgium, September)
-- **Departmental Seminar**, Department of Economics, Heidelberg University (Germany, May)
+- **Internal Seminar**, Department of Economics, Heidelberg University (Germany, May)
 - **Financial Econometrics & Macroeconomic Expectations Workshop**, Heidelberg University (Germany, April, invited talk)
 
 ### 2023
