@@ -14,7 +14,7 @@ title: "CV"
   <dd><strong>Postdoctoral Researcher</strong>, Finance Department, Vrije Universiteit Amsterdam</dd>
 
   <dt>Sep 2020 – Jan 2026</dt>
-  <dd><strong>PhD Candidate</strong>, Chair of Econometrics, Alfred Weber Institute for Economics, Heidelberg University  (thesis submitted Apr 2026, defended Aug 2026)</dd>
+  <dd><strong>PhD Candidate</strong>, Chair of Econometrics, Alfred Weber Institute for Economics, Heidelberg University (thesis submitted Apr 2026, defended Aug 2026)</dd>
 
   <dt>Apr 2020 – Aug 2020</dt>
   <dd><strong>Tutor</strong>, Chair of Statistics, Econometrics and Quantitative Methods, University of Tübingen</dd>
