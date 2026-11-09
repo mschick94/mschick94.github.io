@@ -1,7 +1,7 @@
 ---
 title: "Nowcasting Growth-at-Risk using the Survey of Professional Forecasters"
 date: 2024-06-17
-description: "Working Paper — submitted, under review"
+description: "Working Paper — reject and resubmit, International Journal of Forecasting"
 tags: ["tail risk", "density forecasts", "GARCH", "real-time data", "Working Paper"]
 links:
     - name: SSRN
@@ -12,7 +12,7 @@ cover:
     relative: true
 ---
 
-**Job Market Paper**
+**Job Market Paper** · Reject and resubmit, *International Journal of Forecasting*
 
 ---
 
